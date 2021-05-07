@@ -14,3 +14,5 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 
 Para executar o desafio execute: 
 - run -it --rm --name desafiogo adortolan/desafiogo
+
+https://hub.docker.com/u/adortolan
