@@ -10,7 +10,7 @@ Se você perceber, essa imagem apenas realiza um print da mensagem como resultad
 
 Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o Docker Hub.
 
-3) A imagem de nosso projeto Go precisa ter menos de 2MB =)
+- A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 Para executar o desafio execute: 
 - run -it --rm --name desafiogo adortolan/desafiogo
