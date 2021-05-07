@@ -12,5 +12,5 @@ Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o
 
 3) A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
-- Para executar o desafio execute docker: 
+Para executar o desafio execute: 
 - run -it --rm --name GoWeb adortolan/desafiogo
